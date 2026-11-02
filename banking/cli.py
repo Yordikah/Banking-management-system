@@ -18,7 +18,7 @@ def print_table(headers, rows) -> None:
         return
     text_rows = [["" if v is None else str(v) for v in row] for row in rows]
     widths = [max(len(h), *(len(r[i]) for r in text_rows)) for i, h in enumerate(headers)]
-    line = "+".join("-" * (w + 2) for w in widths)
+    line = "-+-".join("-" * w for w in widths)
     print("  " + " | ".join(h.ljust(w) for h, w in zip(headers, widths)))
     print("  " + line)
     for r in text_rows:

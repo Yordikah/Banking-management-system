@@ -1,7 +1,9 @@
 # Banking Management System
 
 A banking management system written in **Python** with a **MySQL** database, built for
-COMP 337 – Database Management Systems (European University of Lefke).
+COMP 337 – Database Management Systems, Lab Work No. 6 (European University of Lefke).
+
+The full lab report is in [`docs/Lab_Report.pdf`](docs/Lab_Report.pdf).
 
 It has two interfaces over the same business logic:
 
@@ -119,4 +121,4 @@ The tests cover all input validation and need no database.
 
 ## Author
 
-Yordanos Mezgebe Kahsay (22243065) — submitted to Mr. Salman Khan.
+Yordanos Mezgebe Kahsay (2503060413) — submitted to Mr. Salman Khan.
