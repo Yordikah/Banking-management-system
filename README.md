@@ -1,7 +1,7 @@
 # Banking Management System
 
 A banking management system written in **Python** with a **MySQL** database, built for
-COMP 337 – Database Management Systems, Lab Work No. 6 (European University of Lefke).
+COMP 337 – Database Management Systems, Lab Manual 1 (European University of Lefke).
 
 The full lab report is in [`docs/Lab_Report.pdf`](docs/Lab_Report.pdf).
 
